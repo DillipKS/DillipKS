@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Dillip Kumar Sahoo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Dillip1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Delhi, India"
   email            :

@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Project: Perceptron"
 date: 2018-05-07
-tags: [machine learning, data science, neaural network]
+tags: [machine learning, data science, neural network]
 header:
   image: "/images/perceptron/neural_node.png"
 excerpt: "Machine Learning, Perceptron, Data Science"

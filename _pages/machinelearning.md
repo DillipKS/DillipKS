@@ -1,11 +1,11 @@
-___
+---
 layout: archive
 permalink: /machine-learning/
 title: "Machine Learning Posts by Tags"
 author_profile: true
 header:
 	images: "images/taj_mahal.jpg"
-___
+---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}

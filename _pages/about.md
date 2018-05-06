@@ -1,8 +1,8 @@
 ---
-title" "About"
+title": "About"
 permalink: /about/
 header:
-  image: "/images/Beach-Boat-Colva-India.jpeg"
+  image: "/images/Pangong_Lake.png"
 ---
 
 I am a data scientist with specific interests in the areas of Machine Learning, Deep Learning and Text Mining.
